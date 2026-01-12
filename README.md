@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sasori-10/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=sasori-10.sasori-10"></a>
+  <a href="https://github.com/lvventura/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=lvventura.lvventura"></a>
 </p>
 
 ---
@@ -76,7 +76,7 @@ aplicando estos conocimientos en proyectos prácticos y entornos reales.
 
  <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=sasori-10&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile&locale=es)
+![](https://github-readme-stats.vercel.app/api?username=lvventura-10&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile&locale=es)
 <br>
 
 </div>
@@ -85,7 +85,7 @@ aplicando estos conocimientos en proyectos prácticos y entornos reales.
  
  <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasori-10&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvventura0&theme=github_dark)
   
  </div>
  
@@ -93,19 +93,19 @@ aplicando estos conocimientos en proyectos prácticos y entornos reales.
  
  <div align=center>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sasori-10&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF&locale=es)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lvventura-10&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF&locale=es)](https://git.io/streak-stats)
 
  </div>
  
  ### 📈 Gráfico de Actividad
  
- [![Gráfico de actividad de github](https://github-readme-activity-graph.vercel.app/graph?username=sasori-10&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Gráfico de actividad de github](https://github-readme-activity-graph.vercel.app/graph?username=lvventura&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📊 Lenguajes Más Usados
 
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=sasori-10&show_icons=true&locale=es&layout=compact&theme=radical)]()  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=lvventura&show_icons=true&locale=es&layout=compact&theme=radical)]()  
   
  </div>
  
@@ -113,7 +113,7 @@ aplicando estos conocimientos en proyectos prácticos y entornos reales.
 
 <div align=center>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sasori-10&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lvventura&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -123,6 +123,6 @@ aplicando estos conocimientos en proyectos prácticos y entornos reales.
 
 ------
 
-Crédito: [sasori-10](https://github.com/sasori-10)
+Crédito: [lvventura](https://github.com/lvventura)
 
 Última edición: 25/12/2025
